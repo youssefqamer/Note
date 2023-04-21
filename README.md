@@ -1,2 +1,2 @@
 # Note
-You Can Add,Update and Delete your Notes
+Note is a React.js App,You Can Add,Update and Delete your Notes
